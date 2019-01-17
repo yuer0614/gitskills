@@ -11,3 +11,4 @@ echo ${a}/gitskills
 cd ${a}/gitskills
 pwd
 cat one.txt
+echo "yuer"
