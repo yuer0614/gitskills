@@ -12,3 +12,4 @@ cd ${a}/gitskills
 pwd
 cat one.txt
 echo "yuer"
+echo "baiqi"
